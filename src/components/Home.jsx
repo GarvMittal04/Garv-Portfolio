@@ -6,7 +6,7 @@ const Home = () => {
     <div className="container home">
 
       <div className="left">
-        <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit cumque neque expedita ab? Est minus autem, nisi cupiditate sapiente ipsa velit soluta. Fuga animi architecto rem commodi a aut deserunt.</h1>
+        <h1>This is a Garv Mittal's Portfolio which is under contruction .</h1>
       
       <a href={pdf} download="resume..pdf" className="btn btn-outline-warning">Download Resume</a>
       
