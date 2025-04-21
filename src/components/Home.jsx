@@ -1,6 +1,5 @@
-import React from 'react'
-import pdf from '..pdf/resume.pdf'
-
+import React, { useEffect, useRef } from "react";
+import pdf from "../pdf/resume.pdf";
 const Home = () => {
   return (
     <>
@@ -9,7 +8,7 @@ const Home = () => {
       <div className="left">
         <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit cumque neque expedita ab? Est minus autem, nisi cupiditate sapiente ipsa velit soluta. Fuga animi architecto rem commodi a aut deserunt.</h1>
       
-      <a href="" className="btn btn-outline-warning">Download Resume</a>
+      <a href={pdf} download="resume..pdf" className="btn btn-outline-warning">Download Resume</a>
       
       </div>
       <div className="right">
