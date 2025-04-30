@@ -18,7 +18,7 @@ const Home = () => {
         <img src={`/assets/${hero.imgSrc}`} alt="hero" />
         </div>
       </div>
-    </div>
+    </div> 
     </>
   )
 }
