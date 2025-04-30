@@ -1,6 +1,6 @@
 
 :root {
-  --box-shadow: 5px 5px 10px 10px rgba(101, 175, 10, 0.5);
+  --box-shadow: 5px 5px 10px 10px rgba(175, 70, 10, 0.5);
   --bg-color: rgb(40, 47, 97);
 }
 
@@ -68,7 +68,7 @@ a {
   border: 5px solid yellow;
   border-radius: 100%;
   animation-name: superman;
-  animation-duration: 3s;
+  animation-duration: 21s;
   animation-iteration-count: infinite;
 }
 

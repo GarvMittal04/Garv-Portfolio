@@ -1,41 +1,30 @@
 [
     {
       "id": 1,
-      "role": "Senior Software Development Engineer SDE - II",
-      "organisation": "Google",
-      "startDate": "Sept, 2023",
+      "role": "Frontend Developer Intern (Remote)",
+      "organisation": "Softblend",
+      "startDate": "Dec, 2024",
       "endDate": "Present",
-      "location": "CA,United State",
+      "location": "Noida, UP, India",
       "experiences": [
-        "Worked on Google Gmail",
-        "Worked with the Google Bard Team"
+        ""
+
+
       ],
-      "imageSrc": "company/google.png"
+      "imageSrc": "company/softblend.jpeg"
     },
     {
       "id": 2,
-      "role": "Software Development Engineer SDE - I",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2022",
-      "endDate": "Aug, 2023",
-      "location": "London, UK",
+      "role": "Software Engineer Intern (Hybrid)",
+      "organisation": "Crinoid Technologies",
+      "startDate": "Oct, 2024",
+      "endDate": "Dec, 2024",
+      "location": "Chandigarh, Punjab, India",
       "experiences": [
-        "Worked on Windows 10 terminal",
-        "Worked on Window 11 Upcoming features"
+        ""
+        
       ],
-      "imageSrc": "company/microsoft.png"
-    },
-    {
-      "id": 3,
-      "role": "Software Development Engineer - Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2021",
-      "endDate": "Jun, 2022",
-      "location": "Bengluru, India",
-      "experiences": [
-        "Worked on Nextflix payment system",
-        "Helped to create UI for video player"
-      ],
-      "imageSrc": "company/netflix.png"
+      "imageSrc": "company/crinoid.png"
     }
+
   ]
