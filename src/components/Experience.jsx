@@ -24,7 +24,7 @@ const Experience = () => {
                     <span style={{ color: "yellowgreen" }}>
                       {data.startDate} {data.endDate}{" "}
                     </span>{" "}
-                    <span style={{ color: "yellow" }}>{data.location}</span>
+                    <span style={{ color: "black" }}>{data.location}</span>
                   </h4>
                   <h5 style={{ color: "yellow" }}>{data.experiences[0]}</h5>
                   <h5 style={{ color: "yellow" }}>{data.experiences[1]}</h5>
@@ -38,4 +38,4 @@ const Experience = () => {
   );
 };
 
-export default Experience;
+export default Experience; 
