@@ -8,7 +8,7 @@ const Home = () => {
     <div className="container home">
 
       <div className="left">
-        <h1>This is a Garv Mittal's Portfolio which is under contruction .</h1>
+        <h1>This is a Garv Mittal's Portfolio website which is under contruction .</h1>
       
       <a href={pdf} download="Resume.pdf" className="btn btn-outline-warning">Download Resume</a>
       
