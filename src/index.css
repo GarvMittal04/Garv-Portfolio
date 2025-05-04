@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgb(11, 26, 51);
+  background-color: rgb(5, 20, 46);
   color: white;
 }
 
@@ -25,8 +25,8 @@ a {
 
 .nav_bar .nav_items {
   padding: 16px;
-  font-size: 1.2rem;
-  font-weight: bold;
+  font-size: 1.35rem;
+  font-weight:bold;
 }
 
 .nav_bar .nav_items:hover {
@@ -105,7 +105,8 @@ a {
 /* Experience Section */
 
 .ex {
-  width: 900px;
+  /* width: 900px; */
+  
 }
 
 .ex-items {
@@ -113,7 +114,7 @@ a {
   justify-content: space-between;
   align-items: center;
   background-color: var(--bg-color);
-  margin: 20px;
+  margin: 250px;
   padding: 30px;
   width: 800px;
   border-radius: 10px;
@@ -124,7 +125,7 @@ a {
 /* Skills */
 
 .skills {
-  width: 900px;
+  /* width: 900px; */
 }
 
 .skills .items {
@@ -132,14 +133,14 @@ a {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  /* width: 800px; */
+  width: 1100px;
   margin: auto;
   /* background-color: yellow; */
 }
 
 .skills .items .item {
   width: calc(33.33%);
-  background-color: black;
+  background-color: rgb(40, 47, 97);
   margin: 20px;
   text-align: center;
   padding: 20px;
