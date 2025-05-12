@@ -6,6 +6,11 @@ const Projects = () => {
     <>
       <div className="container projects my-3" id="projects">
         <h1>PROJECTS</h1>
+        <h6 style={{ color: 'transparent' }}>.</h6>
+        <h6 style={{ color: 'transparent' }}>.</h6>
+        <h6 style={{ color: 'transparent' }}>.</h6>
+
+
         <div className="row d-flex justify-content-center align-content-center">
           {project.map((data) => (
             <>
@@ -33,6 +38,7 @@ const Projects = () => {
                         height: "200px",
                         border: "2px solid yellow",
                         borderRadius: "10px",
+                        
                       }}
                     />
                   </div>

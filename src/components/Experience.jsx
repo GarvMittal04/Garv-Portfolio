@@ -6,6 +6,10 @@ const Experience = () => {
     <>
       <div className="container ex" id="experience">
         <h1>EXPERIENCE</h1>
+        <h6 style={{ color: 'transparent' }}>.</h6>
+        <h6 style={{ color: 'transparent' }}>.</h6>
+
+
         {experience.map((data) => {
           return (
             <>
