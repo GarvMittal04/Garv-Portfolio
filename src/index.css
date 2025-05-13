@@ -118,9 +118,9 @@ a {
   justify-content: space-between;
   align-items: center;
   background-color: var(--bg-color);
-  margin: 250px;
+  /* margin: 250px; */
   padding: 30px;
-  width: 800px;
+  /* width: 800px; */
   border-radius: 10px;
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
@@ -141,8 +141,8 @@ a {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  width: 1200px;
-  margin: 50px;
+  /* width: 1200px;
+  margin: 50px; */
 
   /* background-color: yellow; */
 }
