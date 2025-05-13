@@ -30,7 +30,7 @@ a {
 }
 
 .nav_bar .nav_items:hover {
-  border-bottom: 3px solid yellow;
+  border-bottom: 3px solid red;
 }
 
 
@@ -41,6 +41,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 
 .home .left {
@@ -49,8 +50,9 @@ a {
   text-align: center;
   padding: 30px;
   border-radius: 10px;
-  border: 1px solid yellow;
+  border: 2px solid yellow;
   box-shadow: var(--box-shadow);
+  
 }
 
 .home .right .img {
@@ -59,8 +61,8 @@ a {
   align-items: center;
   /* background-color: yellow; */
   /* height: 350px;
-  width: 350px; */
-}
+  /* width: 350px; */
+} 
 
 .home .right .img img {
   height: 270px;
@@ -161,6 +163,12 @@ a {
 }
 
 /* Contact */
+.contact{
+  
+ height: 30vh;
+ margin-top: 200px; 
+
+}
 
 .contact-icon {
   height: 30vh;

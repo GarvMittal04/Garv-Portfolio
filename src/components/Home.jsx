@@ -8,7 +8,7 @@ const Home = () => {
   useEffect(() => {
   
     const options = {
-      strings:["Welcome to My Protfolio","My Name is Garv Mittal","I'm a Frontend Developer","Web Developer(React)"],
+    strings:[" Welcome to My Protfolio ", " My Name is Garv Mittal ", " I'm a Frontend Developer ", " Web Developer(React) "],
     typeSpeed:50,
     backSpeed:50,
     loop:true
