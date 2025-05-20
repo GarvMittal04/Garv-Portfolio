@@ -14,7 +14,7 @@
       "description": "A sleek, responsive calculator app built with React for quick and easy arithmetic operations.",
       "demo": "https://calculatar-app.vercel.app/",
       "source": "https://github.com/GarvMittal04/Calculatar-App.git"
-    },
+    }, 
     {
       "key": 3,
       "title": "Snake Game",
