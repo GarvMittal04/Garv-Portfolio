@@ -7,7 +7,7 @@ const Home = () => {
   const typedRef = useRef(null);
   useEffect(() => {
     const options = {
-      strings: [
+      strings: [ 
         " Welcome to My Protfolio ",
         " My Name is Garv Mittal ",
         " I'm a Frontend Developer ",
